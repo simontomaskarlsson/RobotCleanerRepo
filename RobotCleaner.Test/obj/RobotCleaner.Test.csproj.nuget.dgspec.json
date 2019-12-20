@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner.Test/RobotCleaner.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner.Test/RobotCleaner.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner.Test/RobotCleaner.Test.csproj",
+        "projectName": "RobotCleaner.Test",
+        "projectPath": "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner.Test/RobotCleaner.Test.csproj",
+        "packagesPath": "/Users/sika/.nuget/packages/",
+        "outputPath": "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sika/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner/RobotCleaner.csproj": {
+                "projectPath": "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner/RobotCleaner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner/RobotCleaner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner/RobotCleaner.csproj",
+        "projectName": "RobotCleaner",
+        "projectPath": "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner/RobotCleaner.csproj",
+        "packagesPath": "/Users/sika/.nuget/packages/",
+        "outputPath": "/Users/sika/Documents/Netlight/Coding tests/RobotCleanerRepo/RobotCleaner/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sika/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

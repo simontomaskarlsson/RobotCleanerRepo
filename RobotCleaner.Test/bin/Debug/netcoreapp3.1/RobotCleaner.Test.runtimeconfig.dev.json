@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/sika/.dotnet/store/|arch|/|tfm|",
+      "/Users/sika/.nuget/packages"
+    ]
+  }
+}
